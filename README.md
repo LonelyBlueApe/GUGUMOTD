@@ -6,9 +6,9 @@
 #  
 #  
 
-## **<div align="center">
-RULES
-</div>**
+<div align="center">
+## **RULES**
+</div>
 
 1. NO FFA
 2. NO CHEATING
