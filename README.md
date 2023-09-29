@@ -2,7 +2,7 @@
 ### **Please make sure you read our rules!**
 
 ### **Make sure you join our Discord server for news, updates, and more!**
-<a id="Gugu Gaga Discord server">![Gugu](https://roweflay.xyz/assets/gugu_gaga.png)</>
+<a id="Gugu Gaga Discord server">https://discord.gg/yTyZXrqVW</>
 
 
 ## **RULES**
