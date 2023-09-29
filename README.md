@@ -9,6 +9,7 @@
 <div align="center">
   
 RULES
+
 </div>
 
 1. NO FFA
