@@ -6,7 +6,7 @@
 #  
 #  
 
-<p align="center"><strong>RULES</strong></p>
+<p align="center"><strong>RULES</strong></>
 
 1. NO FFA
 2. NO CHEATING
