@@ -7,8 +7,8 @@
 #  
 
 <div style="text-align: center;">
-  <h2><strong>RULES</strong></h2>
-</div>
+  <h2><strong>RULES</></>
+</>
 
 1. NO FFA
 2. NO CHEATING
