@@ -6,7 +6,10 @@
 #  
 #  
 
-**<h2 style="text-align: center;">RULES</h2>**
+<div align="center">
+  
+RULES
+</div>
 
 1. NO FFA
 2. NO CHEATING
