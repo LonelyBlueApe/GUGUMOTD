@@ -5,9 +5,9 @@
 <a id="Gugu Gaga Discord server">https://discord.gg/yTyZXrqVW</>
 #  
 #  
-<div align="center">
-## **RULES**
-</div>
+## **<div align="center">
+RULES
+</div>**
 1. NO FFA
 2. NO CHEATING
 3. NO EXPLOITS
